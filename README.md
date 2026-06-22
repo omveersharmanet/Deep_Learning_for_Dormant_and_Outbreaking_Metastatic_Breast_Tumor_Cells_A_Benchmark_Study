@@ -122,7 +122,11 @@ bash ./shfiles/sequence_length_20/Evaluation/C3_dynamic_frozen_with_dynamic_trai
 bash ./shfiles/sequence_length_20/Evaluation/C4_dynamic_frozen_models_size96times96_seq_len_20.sh 
 
 ```
-
+## Data Availability
+A sample dataset (64×64 image resolution with sequence length 10) can be downloaded from the link below:
+https://drive.google.com/file/d/1wC_moLIqWcHbbj4VwSlaKrAgKRl2xm4J/view?usp=sharing
+After downloading, place the dataset in the `data` folder of this repository. This dataset can be used to train and evaluate the top-performing models reported in this study.
+Additional datasets, including other image resolutions and sequence-length configurations used in the benchmark experiments, are available from the authors upon reasonable request.
 
 ## :pray: Acknowledgement 
 
