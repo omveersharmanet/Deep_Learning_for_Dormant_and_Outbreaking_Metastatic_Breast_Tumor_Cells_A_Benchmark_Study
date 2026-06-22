@@ -1,0 +1,6 @@
+2026-06-21 13:15:26 | {'root': '/home/osharma2/cancer_workss/Repository_Breast_Tumor_Cells/data/', 'results_dir': '/home/osharma2/cancer_workss/Repository_Breast_Tumor_Cells/results/sequence_length1/96x96', 'modelname': 'C1_alexnet', 'num_layers': 3, 'num_lastlayerstrain': 1, 'channels': [1], 'batch_size': 16, 'epochs': 0, 'lr': 0.0005, 'normalize': 1, 'dropout': 0.1, 'patience_iter': 10, 'early_stop_iter': 13, 'is_traning': 1, 'sequence_length': 1, 'stride': 1, 'itr': 1, 'seed': 42, 'framesize': 96, 'hidden_dim': 128}
+2026-06-21 13:15:26 | No existing model found. Starting training from scratch.
+2026-06-21 13:15:26 | Training started
+2026-06-21 13:15:26 | Using batch_size=16
+2026-06-21 13:15:26 | Training finished. Best model saved at: /home/osharma2/cancer_workss/Repository_Breast_Tumor_Cells/results/sequence_length1/96x96/C1_alexnet/Size96x96_sequence_length1_layers3_c1_dropout0.1_itr0/best_model.pth
+2026-06-21 13:15:26 | Loading best model for evaluation...
