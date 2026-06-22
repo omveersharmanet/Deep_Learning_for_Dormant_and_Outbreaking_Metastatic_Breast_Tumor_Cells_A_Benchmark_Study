@@ -127,7 +127,7 @@ A sample dataset (64×64 image resolution with sequence length 10) can be downlo
 https://drive.google.com/file/d/1wC_moLIqWcHbbj4VwSlaKrAgKRl2xm4J/view?usp=sharing
 After downloading, place the dataset in the `data` folder of this repository. This dataset can be used to train and evaluate the top-performing models reported in this study.
 Additional datasets, including other image resolutions and sequence-length configurations used in the benchmark experiments, are available from the authors upon reasonable request.
-
+Email: [os10@iitbbs.ac.in] 
 ## :pray: Acknowledgement 
 
 This work was supported by the Artificial Intelligence Research Center at the University of Haifa.
