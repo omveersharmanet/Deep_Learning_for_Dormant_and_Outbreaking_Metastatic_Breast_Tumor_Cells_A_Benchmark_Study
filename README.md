@@ -1,0 +1,2 @@
+# Deep_Learning_for_Dormant_and_Outbreaking_Metastatic_Breast_Tumor_Cells_A_Benchmark_Study
+Deep learning benchmark for classifying dormant and proliferative metastatic breast tumor cells in a 3D BME model. Evaluates CNNs, segmentation networks, and transformers with transfer learning and temporal sequence modeling. EfficientNet-B7 achieved the best performance with 98.86% accuracy and ROC-AUC of 0.998.
