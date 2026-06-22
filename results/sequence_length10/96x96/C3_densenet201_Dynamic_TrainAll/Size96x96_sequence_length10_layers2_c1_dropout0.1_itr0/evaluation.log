@@ -1,0 +1,10 @@
+2026-06-21 21:59:46,494 | INFO | ===== EVALUATION STARTED =====
+2026-06-21 21:59:46,494 | INFO | Loading best model from /home/osharma2/cancer_workss/Repository_Breast_Tumor_Cells/results/sequence_length10/96x96/C3_densenet201_Dynamic_TrainAll/Size96x96_sequence_length10_layers2_c1_dropout0.1_itr0/best_model.pth
+2026-06-21 22:01:09,568 | INFO | [VALIDATION RESULTS]
+2026-06-21 22:01:09,568 | INFO | Loss: 0.0730
+2026-06-21 22:01:09,569 | INFO | Overall Val Acc: 98.864%
+2026-06-21 22:01:09,569 | INFO | Class-wise Acc: {0: 99.3051589567866, 1: 98.33825701624815}
+2026-06-21 22:02:31,390 | INFO | [TEST RESULTS]
+2026-06-21 22:02:31,390 | INFO | Overall test Acc: 98.645%
+2026-06-21 22:02:31,390 | INFO | Class-wise Acc: {0: 99.18142014087188, 1: 98.00814848347669}
+2026-06-21 22:02:31,390 | INFO | Evaluation completed successfully.
